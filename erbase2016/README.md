@@ -12,7 +12,7 @@ O medidor de energia elétrica de baixo custo descrito neste artigo é o resulta
 
 *Universidade Federal de Alagoas*
 * Charles Mariano P. de Almeida - charles.pedrosa@gmail.com
-* Randy Quindai - @quindai
+* Randy Quindai - [@quindai](https://github.com/quindai)
 * Heitor S. Ramos - heitor@laccan.ufal.br
 * André L.L. Aquino - alla@laccan.ufal.br
 

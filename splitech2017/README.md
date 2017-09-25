@@ -9,9 +9,6 @@ The calibration was made by software.
 We present a method to calculate the neutral RMS without complex numbers using (Analysis of Variance) ANOVA and post hoc Tukey's multiple comparison test to assert the differences of measures among phases. We managed to validate the method using a measure reference.
 Based on the proposed kit, several applications can be developed, for example, energy disaggregation and smart measure.
 
-> Em construção 
-> :surfer:
-
 **Lista de autores:**
 
 *Universidade Federal de Alagoas*
@@ -23,3 +20,5 @@ Based on the proposed kit, several applications can be developed, for example, e
 *Instituto Nacional de Telecomunicações*
 Universidade Federal de Fortaleza*
 * Joel J. P. C. Rodrigues - joeljr@ieee.org
+
+> :surfer: disponível em: [http://ieeexplore.ieee.org/abstract/document/8019245/](http://ieeexplore.ieee.org/abstract/document/8019245/)
